@@ -1,0 +1,2 @@
+#!/bin/bash
+conky -c ./todo.conf && exit 0
