@@ -6,6 +6,11 @@ a simple conky todo list :scroll:
 
 ![todo screenshot](./screenshot/Screenshot.png)
 
+## What's Changed
+- Updated to display the **active item** under the header for better visibility.
+- Updated task summary to Progress/Done/Total Format
+
+
 ## Why?
 
 1. to remember what to do :smiley:

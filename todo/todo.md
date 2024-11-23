@@ -1,5 +1,8 @@
 # My todo list
 
+## What's Changed from main repo
+- Updated to display the **active item** under the header for better visibility.
+
 Read readme for more details
 
 ## task: make todo
